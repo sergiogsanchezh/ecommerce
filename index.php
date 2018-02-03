@@ -4,4 +4,4 @@
 
 ?>
 
-<h1><a href="/commerce/cart.php">my cart</a></h1>
+<h1><a href="/commerce/cart.php">my cart, sample 2</a></h1>
